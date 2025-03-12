@@ -6,7 +6,7 @@ import Recap from './components/Recap';
 import Question from './components/Question';
 import Picture from './components/Picture';
 import PageNotFound from '../PageNotFound';
-// import Letter from './components/Letter';
+// import Letter from './components/Letter'; testing changes 
 
 export const Home = () => (
 
